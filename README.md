@@ -7,7 +7,7 @@ copy the github repo in you local machine
 Initiate a virtual environemt 
 set the interpreter path 
 run command " pip install -r requirements.txt " 
-run the pyton file 
+run the python file 
 
 # How to use: 
 
